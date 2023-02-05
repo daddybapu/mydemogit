@@ -1,1 +1,3 @@
 "this is my first FILE IN GIT LINE 1" 
+" this is fine in feature1 hehehehehe " 
+"2nd line commit" 
